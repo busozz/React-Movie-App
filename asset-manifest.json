@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Movie-App/static/css/main.ba760eb4.chunk.css",
+    "main.js": "/React-Movie-App/static/js/main.8c91a2c5.chunk.js",
+    "main.js.map": "/React-Movie-App/static/js/main.8c91a2c5.chunk.js.map",
+    "runtime-main.js": "/React-Movie-App/static/js/runtime-main.2702d5ff.js",
+    "runtime-main.js.map": "/React-Movie-App/static/js/runtime-main.2702d5ff.js.map",
+    "static/js/2.fd08c7dd.chunk.js": "/React-Movie-App/static/js/2.fd08c7dd.chunk.js",
+    "static/js/2.fd08c7dd.chunk.js.map": "/React-Movie-App/static/js/2.fd08c7dd.chunk.js.map",
+    "index.html": "/React-Movie-App/index.html",
+    "static/css/main.ba760eb4.chunk.css.map": "/React-Movie-App/static/css/main.ba760eb4.chunk.css.map",
+    "static/js/2.fd08c7dd.chunk.js.LICENSE.txt": "/React-Movie-App/static/js/2.fd08c7dd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Movie-App/static/media/2.3c228546.jpg",
+    "static/media/logo.e6ecab44.png": "/React-Movie-App/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/React-Movie-App/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2702d5ff.js",
+    "static/js/2.fd08c7dd.chunk.js",
+    "static/css/main.ba760eb4.chunk.css",
+    "static/js/main.8c91a2c5.chunk.js"
+  ]
+}
